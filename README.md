@@ -1,7 +1,6 @@
 ### Hi there, I am Kayee.  👋
 
 <!--
-**kayeew/kayeew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -43,6 +42,4 @@ Here are some ideas to get you started:
 
 -->
 
-![Kayee's github stats](https://github-readme-stats.vercel.app/api?username=kayeew)
-
-
+![Kayee's github stats](https://github-readme-stats.vercel.app/api?username=kayeew&count_private=true)
