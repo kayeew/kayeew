@@ -6,6 +6,8 @@
 
 <!--
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kayeew" alt="kayee trophies" /></a> </p>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -48,8 +50,13 @@ Here are some ideas to get you started:
 
 ![Kayee's github stats](https://github-readme-stats.vercel.app/api?username=kayeew&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
 
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=kayeew" alt="kayeew git stats" /></p>
 
 
 ## &#x1f4c8; Kayeew's Github activity graph
 
 [![Kayeew's Github activity graph](https://activity-graph.herokuapp.com/graph?username=kayeew&bg_color=0d1117&color=FFF&line=FFF&point=FFF&area=true&hide_border=true)](https://github.com/kayeew)
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/KZFHhS7"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kayeew buy me coffee" /></a></p>
+
