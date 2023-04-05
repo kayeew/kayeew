@@ -3,6 +3,9 @@
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=kayeew&label=Profile%20views&color=0e75b6&style=flat" alt="kayeew" /> 
 </p>
+<p align="left"> 
+ <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/kayeew?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+</p>
 
 <!--
 
@@ -52,6 +55,7 @@ Here are some ideas to get you started:
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=kayeew" alt="kayeew git stats" /></p>
 
+[![Kayee StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10684436&theme=dark)]([[https://stackoverflow.com/users/3840208/dhanushka](https://stackoverflow.com/users/10684436/kayee)](https://stackoverflow.com/users/10684436/kayee))
 
 ## &#x1f4c8; Kayeew's Github activity graph
 
