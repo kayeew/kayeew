@@ -57,10 +57,6 @@ Here are some ideas to get you started:
 
 [![Kayee StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10684436&theme=dark)]([[https://stackoverflow.com/users/3840208/dhanushka](https://stackoverflow.com/users/10684436/kayee)](https://stackoverflow.com/users/10684436/kayee))
 
-## &#x1f4c8; Kayeew's Github activity graph
-
-[![Kayeew's Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kayeew&bg_color=0d1117&color=FFF&line=FFF&point=FFF&area=true&hide_border=true)](https://github.com/kayeew)
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/KZFHhS7"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kayeew buy me coffee" /></a></p>
 
