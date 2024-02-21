@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=kayeew" alt="kayeew git stats" /></p>
 
-[![Kayee StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10684436&theme=dark)]([[https://stackoverflow.com/users/3840208/dhanushka](https://stackoverflow.com/users/10684436/kayee)](https://stackoverflow.com/users/10684436/kayee))
+<a href="https://stackoverflow.com/users/10684436/kayee"><img src="https://github-readme-stackoverflow.vercel.app/?userID=10684436&theme=dark" alt="kayeew stackoverflow profile badge"/></a>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/KZFHhS7"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kayeew buy me coffee" /></a></p>
